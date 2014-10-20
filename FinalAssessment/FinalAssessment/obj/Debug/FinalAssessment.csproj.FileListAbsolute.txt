@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\bin\Debug\FinalAssessment.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\bin\Debug\FinalAssessment.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\bin\Debug\FinalAssessment.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.Form1.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.Properties.Resources.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.pdb
