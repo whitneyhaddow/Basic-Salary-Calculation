@@ -7,3 +7,12 @@ C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\
 C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.csproj.GenerateResource.Cache
 C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.exe
 C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.pdb
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\bin\Debug\FinalAssessment.exe.config
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.exe
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.pdb
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\bin\Debug\FinalAssessment.exe
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\bin\Debug\FinalAssessment.pdb
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.csprojResolveAssemblyReference.cache
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.Form1.resources
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.Properties.Resources.resources
+D:\alchu\Source\Repos\Basic-Salary-Calculation2\FinalAssessment\FinalAssessment\obj\Debug\FinalAssessment.csproj.GenerateResource.Cache
