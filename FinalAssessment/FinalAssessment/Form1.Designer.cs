@@ -40,6 +40,10 @@
             this.lblTax = new System.Windows.Forms.Label();
             this.lblMidpoint = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.txtState = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.lblStateTax = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -78,7 +82,7 @@
             // 
             // btnNext
             // 
-            this.btnNext.Location = new System.Drawing.Point(137, 116);
+            this.btnNext.Location = new System.Drawing.Point(136, 159);
             this.btnNext.Name = "btnNext";
             this.btnNext.Size = new System.Drawing.Size(103, 32);
             this.btnNext.TabIndex = 4;
@@ -88,7 +92,7 @@
             // 
             // btnDone
             // 
-            this.btnDone.Location = new System.Drawing.Point(246, 116);
+            this.btnDone.Location = new System.Drawing.Point(245, 159);
             this.btnDone.Name = "btnDone";
             this.btnDone.Size = new System.Drawing.Size(103, 32);
             this.btnDone.TabIndex = 5;
@@ -99,7 +103,7 @@
             // lblAvg
             // 
             this.lblAvg.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblAvg.Location = new System.Drawing.Point(66, 163);
+            this.lblAvg.Location = new System.Drawing.Point(65, 206);
             this.lblAvg.Name = "lblAvg";
             this.lblAvg.Size = new System.Drawing.Size(283, 27);
             this.lblAvg.TabIndex = 6;
@@ -118,7 +122,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(53, 238);
+            this.label3.Location = new System.Drawing.Point(52, 259);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(144, 16);
             this.label3.TabIndex = 8;
@@ -127,7 +131,7 @@
             // lblTax
             // 
             this.lblTax.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblTax.Location = new System.Drawing.Point(208, 227);
+            this.lblTax.Location = new System.Drawing.Point(207, 248);
             this.lblTax.Name = "lblTax";
             this.lblTax.Size = new System.Drawing.Size(141, 27);
             this.lblTax.TabIndex = 9;
@@ -135,7 +139,7 @@
             // lblMidpoint
             // 
             this.lblMidpoint.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblMidpoint.Location = new System.Drawing.Point(208, 267);
+            this.lblMidpoint.Location = new System.Drawing.Point(207, 328);
             this.lblMidpoint.Name = "lblMidpoint";
             this.lblMidpoint.Size = new System.Drawing.Size(141, 27);
             this.lblMidpoint.TabIndex = 11;
@@ -143,11 +147,44 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(53, 278);
+            this.label5.Location = new System.Drawing.Point(52, 339);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(101, 16);
             this.label5.TabIndex = 10;
             this.label5.Text = "Midpoint Salary:";
+            // 
+            // txtState
+            // 
+            this.txtState.Location = new System.Drawing.Point(300, 119);
+            this.txtState.Name = "txtState";
+            this.txtState.Size = new System.Drawing.Size(48, 23);
+            this.txtState.TabIndex = 12;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(53, 119);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(208, 16);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Enter 2-letter state code (e.g. CA):";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(65, 285);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(131, 16);
+            this.label6.TabIndex = 14;
+            this.label6.Text = "Calculated State Tax:";
+            // 
+            // lblStateTax
+            // 
+            this.lblStateTax.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblStateTax.Location = new System.Drawing.Point(207, 284);
+            this.lblStateTax.Name = "lblStateTax";
+            this.lblStateTax.Size = new System.Drawing.Size(141, 27);
+            this.lblStateTax.TabIndex = 15;
             // 
             // Form1
             // 
@@ -156,6 +193,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnExit;
             this.ClientSize = new System.Drawing.Size(585, 430);
+            this.Controls.Add(this.lblStateTax);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.txtState);
             this.Controls.Add(this.lblMidpoint);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.lblTax);
@@ -191,6 +232,10 @@
         private System.Windows.Forms.Label lblTax;
         private System.Windows.Forms.Label lblMidpoint;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txtState;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label lblStateTax;
     }
 }
 
